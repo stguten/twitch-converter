@@ -1,0 +1,17 @@
+{
+  "name": "twitch-pint-connverter",
+  "version": "0.0.1",
+  "description": "Bot para converter pontos de canal em pontos de fidelidade do streamelements",
+  "main": "run.js",
+  "type": "module",
+  "scripts": {
+    "run": "node run.js"
+  },
+  "author": "Gutemberg (a.k.a StGuten)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv-safe": "^8.2.0",
+    "tmi.js": "^1.8.5"
+  }
+}
