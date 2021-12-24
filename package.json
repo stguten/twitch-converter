@@ -12,6 +12,8 @@
   "dependencies": {
     "axios": "^0.24.0",
     "dotenv-safe": "^8.2.0",
+    "moment": "^2.29.1",
+    "sqlite3": "^5.0.2",
     "tmi.js": "^1.8.5"
   }
 }
