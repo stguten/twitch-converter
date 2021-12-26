@@ -5,7 +5,7 @@
   "main": "run.js",
   "type": "module",
   "scripts": {
-    "run": "node run.js"
+    "start": "node run.js"
   },
   "author": "Gutemberg (a.k.a StGuten)",
   "license": "MIT",
